@@ -1,6 +1,6 @@
 # bPlusTree
 
-#Class BPlusTree 
+# Class BPlusTree 
 - ReadMetadata(): 파일의 헤더에 저장된 메타데이터
 - getPath() : 넘겨준 key 값에 해당하는 노드의 위치와 경로 반환 
 - insert() : B+tree에 엔트리 삽입
